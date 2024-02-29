@@ -9,7 +9,7 @@ y = np.loadtxt(file_path)
 x = np.arange(1, len(y) + 1)
 
 # Highlight a specific value
-highlight_index = 5  # Replace with the index you want to highlight
+highlight_index =  # Replace with the index you want to highlight
 highlight_x = x[highlight_index]
 highlight_y = y[highlight_index]
 
