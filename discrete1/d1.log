@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.2.7)  29 FEB 2024 09:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.2.7)  29 FEB 2024 09:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1375,9 +1375,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (./d1.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `d1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
